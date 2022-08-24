@@ -1,5 +1,6 @@
 body {
     background-image: url('../resources/NASA.jpg');
+    background-position: center;
 }
 
 h1 {
